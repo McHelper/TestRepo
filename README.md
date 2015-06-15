@@ -1,2 +1,4 @@
 # TestRepo
-Demo repository to help learn how GitHub works
+Demo repository to help learn how GitHub works.
+
+## Updating branches
